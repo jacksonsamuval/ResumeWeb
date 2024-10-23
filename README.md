@@ -1,1 +1,8 @@
 This is an simple resume created by me for Educational Purpose.
+
+Resume:
+
+![Image Alt](https://github.com/jacksonsamuval/ResumeWeb/blob/1931b6a49c01194cf86aee79ed1484a0d15e9dc0/resume/Screenshot%202024-10-23%20203525.png)
+![Image Alt](https://github.com/jacksonsamuval/ResumeWeb/blob/1931b6a49c01194cf86aee79ed1484a0d15e9dc0/resume/Screenshot%202024-10-23%20203739.png)
+
+Thank You.
